@@ -1,0 +1,1 @@
+diamondpattern(7);
