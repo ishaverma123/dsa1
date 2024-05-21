@@ -14,4 +14,4 @@ function patern2(n: number) {
          console.log(currRow);
 }
 }
-patern2(5);
+patern2(5)

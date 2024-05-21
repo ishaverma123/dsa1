@@ -1,0 +1,1 @@
+node patern2.js 5
